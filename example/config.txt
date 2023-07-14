@@ -1,0 +1,2 @@
+Prefix plugins/NetworkReplace/example/
+Plugin NetworkReplace inputfile input.gml outputfile replaced.gml
